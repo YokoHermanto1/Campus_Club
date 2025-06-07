@@ -98,13 +98,13 @@ Semua halaman menggunakan Tailwind CSS dan sudah diatur agar:
 ![Home Page](./screenshots/home.png)
 
 ### 📃 Club List Page (Grid View)
-![Club Grid](./screenshots/club-list-grid.png)
+![Club Grid](./screenshots/grid.png)
 
 ### 📃 Club List Page (List View)
-![Club List](./screenshots/club-list-list.png)
+![Club List](./screenshots/list.png)
 
 ### 🔍 Club Detail Page
-![Club Detail](./screenshots/club-detail.png)
+![Club Detail](./screenshots/detailclub.png)
 
 ### ℹ️ About Page
 ![About](./screenshots/about.png)
