@@ -87,27 +87,4 @@ Semua halaman menggunakan Tailwind CSS dan sudah diatur agar:
 - Responsif di tablet & desktop
 - Grid dan list disesuaikan secara dinamis
 
----
 
-## 📸 Screenshots
-
-> 💡 **Tambahkan gambar di bawah ini** menggunakan format berikut (setelah menempatkan gambar di folder `/screenshots`):
-
-```md
-### 🏠 Home Page
-![Home Page](/screenshots/home.png)
-
-### 📃 Club List Page (Grid View)
-![Club Grid](/screenshots/grid.png)
-
-### 📃 Club List Page (List View)
-![Club List](/screenshots/list.png)
-
-### 🔍 Club Detail Page
-![Club Detail](/screenshots/detailclub.png)
-
-### ℹ️ About Page
-![About](/screenshots/about.png)
-
-### 🚫 404 Page
-![404](/screenshots/404.png)
