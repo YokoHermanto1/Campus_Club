@@ -18,7 +18,7 @@ A React app to browse, view details, and join campus clubs. This project is full
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/campus-club-finder.git
+git clone https://github.com/your-username/campus-club-finder.git <br>
 cd campus-club-finder
 
 ### 2. Install dependencies
