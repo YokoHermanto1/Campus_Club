@@ -95,19 +95,19 @@ Semua halaman menggunakan Tailwind CSS dan sudah diatur agar:
 
 ```md
 ### 🏠 Home Page
-![Home Page](public/screenshots/home.png)
+![Home Page](/screenshots/home.png)
 
 ### 📃 Club List Page (Grid View)
-![Club Grid](public/screenshots/grid.png)
+![Club Grid](/screenshots/grid.png)
 
 ### 📃 Club List Page (List View)
-![Club List](public/screenshots/list.png)
+![Club List](/screenshots/list.png)
 
 ### 🔍 Club Detail Page
-![Club Detail](public/screenshots/detailclub.png)
+![Club Detail](/screenshots/detailclub.png)
 
 ### ℹ️ About Page
-![About](public/screenshots/about.png)
+![About](/screenshots/about.png)
 
 ### 🚫 404 Page
-![404](public/screenshots/404.png)
+![404](/screenshots/404.png)
